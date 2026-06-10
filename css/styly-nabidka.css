@@ -1,0 +1,93 @@
+
+main ul{
+
+   
+  list-style-type: none;
+   /* gap: 40px;*/
+       
+    
+   
+   
+}
+
+    
+/*align-items:  flex-start;*/
+/*padding: 20px 0px;*/
+main li{
+width: 300px;
+
+
+
+
+
+
+}
+main ul li  {
+    
+    font-size: 30px;
+    font-weight: bold;
+}
+
+main ul ol{
+    
+list-style-type: none;
+}
+main ul ol li{
+    
+   /* display: flex;
+   flex-direction:row;
+
+    justify-content:flex-start;
+    padding-left:120px;*/
+    font-size:22px;
+    font-weight:normal;
+    
+} 
+main details li{
+   font-size:22px;
+    font-weight:normal;
+}
+
+
+/*main ul ol ol li{
+      display: flex;
+   flex-direction:row;
+
+    justify-content:flex-start;
+    padding-left:120px;
+    font-size:18px;
+    font-weight:normal;
+}*/
+.odsazeni-li{
+    padding-top: 5px;
+}
+
+.vedle-sebe{
+   display: flex;
+   
+}
+.vlevo{
+flex:1;
+padding-left:100px;
+}
+.vpravo{
+flex:1;
+}
+
+        
+        /*padding-right:100px;*/
+    
+   /* */
+    
+
+
+   
+        
+        /*padding-right:100px;*/
+   
+   /* padding-left:100px;*/
+    
+    
+    
+
+/*rozdělit do 2 seznamů flex:1;*/

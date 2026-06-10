@@ -1,0 +1,1 @@
+Použil jsem background-size: cover; použil jsem to aby obrázek byl přes celou stránku, je použitu v souboru styly-idex.css

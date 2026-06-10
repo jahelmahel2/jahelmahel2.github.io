@@ -1,0 +1,16 @@
+.zarovnani-galerie{
+   display: flex;
+   flex-wrap:wrap; 
+   justify-content: space-around;
+}
+.video{
+   border:none;
+}
+p{
+   font-weight: bold;
+   
+   
+}
+p:hover{
+   color: chartreuse;
+}

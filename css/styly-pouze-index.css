@@ -1,0 +1,62 @@
+caption{
+    font-size:30px;
+    padding-bottom: 10px;
+}
+table{
+    border-collapse: collapse;
+    table-layout: auto;
+    width: 300px;
+
+}
+table, th, td{
+    border: 2px solid black;
+}
+th,td{
+    padding: 5px;
+    font-size: 24px;
+}
+td{
+    text-align: center;
+}
+.barva-tabulka-pismo
+{
+    color: green;
+}
+.zal{
+    white-space:pre;
+}
+.email{
+    text-decoration: underline;
+  /*  color: blueviolet;*/
+  color:blue;
+}
+p{
+    margin-bottom: 40px;
+    white-space: pre;
+}
+
+/*.zarovnani{
+    
+    
+    display: flex;
+    align-items: flex-start;
+}
+.dole{
+
+    align-self: flex-end;
+    
+}*/
+
+
+    
+.pravy{
+   padding-left:250px;
+    display: flex;
+    justify-content: center;
+   /* flex-direction: column;
+    align-items: center;*/
+}
+.pozice{
+    display:flex;
+    justify-content: center;
+}

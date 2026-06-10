@@ -1,0 +1,94 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+#container{
+margin: 0 auto;
+width: 1200px;
+/*height: 100vh;*/
+}
+body{
+   /* font-size: 20px;
+    background-image: url(../obrazky/kitos_lab-retro-film.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;*/
+    background:  url(../obrazky/kitos_lab-retro-film.png)  center / cover no-repeat fixed;
+    font-size: 18px; 
+   font-family: 'Times New Roman', georgia, cambria, serif;
+   
+}
+header{
+    font-size: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:green;
+    padding-top: 40px;
+    font-weight: bold;
+    height: 200px;
+}
+nav ul{
+
+    display: flex;
+  list-style-type: none;
+    gap: 40px;
+    
+   
+   
+}
+nav li{
+width: 300px;
+text-align: center;
+font-size: 30px;
+height: 50px;
+background-color:rgb(206, 219, 211);
+align-content: center;
+/*padding: 20px 0px;*/
+margin-bottom: 50px;
+
+}
+nav a{
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover,main a:hover {
+    border-bottom: solid chartreuse 3px;
+}
+main a{
+    text-decoration: none;
+    color: black;
+}
+
+
+
+main{
+    
+    height: 700px;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100px;
+}
+p{
+font-size: 24px;
+max-width: 1200px;
+
+}
+h1{
+    font-size: 40px;
+    color: green;
+}
+h2{
+    font-size: 30px;
+}
+img{
+ float: right;   
+ margin:0px 5px 0px 20px;
+
+}
